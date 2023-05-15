@@ -1,28 +1,7 @@
-PixiJS — The HTML5 Creation Engine
-=============
-
-![pixi.js logo](https://pixijs.download/pixijs-banner-no-version.png?v=1)
-
-[![Discord](https://badgen.net/badge/icon/discord?icon=discord&label)](https://discord.gg/QrnxmQUPGV)
-[![npm version](https://badge.fury.io/js/pixi.js.svg)](https://badge.fury.io/js/pixi.js)
-[![Node.js CI](https://github.com/pixijs/pixijs/workflows/Node.js%20CI/badge.svg)](https://github.com/pixijs/pixijs/actions?query=workflow%3A%22Node.js+CI%22)
-[![Financial Contributors](https://opencollective.com/pixijs/tiers/badge.svg)](https://opencollective.com/pixijs/donate)
-
-This project aims to provide a fast, lightweight 2D library that works
-across all devices. The PixiJS renderer allows everyone to enjoy the power of
-hardware acceleration without prior knowledge of WebGL. Also, it's fast. Really fast.
-
-If you want to keep up to date with the latest PixiJS news then feel free to follow us on Twitter [@PixiJS](https://twitter.com/PixiJS)
-and we will keep you posted! You can also check back on [our site](https://www.pixijs.com)
-as any breakthroughs will be posted up there too!
-
-**We are now a part of the [Open Collective](https://opencollective.com/pixijs) and with your support you can help us make PixiJS even better. To make a donation, simply click the button below and we'll love you forever!**
-
-<div align="center">
-  <a href="https://opencollective.com/pixijs/donate" target="_blank">
-    <img src="https://opencollective.com/pixijs/donate/button@2x.png?color=blue" width=250 />
-  </a>
-</div>
+### start
+```
+npm install pixi.js
+```
 
 ### What to Use PixiJS for and When to Use It
 
